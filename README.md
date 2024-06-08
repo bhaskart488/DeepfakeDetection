@@ -1,5 +1,7 @@
 # Deepfake Detection using Machine Learning
 
+### Link to the dataset: https://drive.google.com/drive/folders/1-bt971oEMXuFYQ1uoOsMCyNhuxBaEYii?usp=sharing
+
 ## B.Tech Major Project
 
 ### Team Members:
