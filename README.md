@@ -6,7 +6,7 @@
 
 ### Team Members:
 
-1. Bhaskar Trivedi
+1. Bhaskar Trivedi (Leader)
 2. Asmit Chaudhary
 3. Ganesh Rana
 
